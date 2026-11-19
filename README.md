@@ -102,7 +102,6 @@ The system was physically assembled and tested.
 - UART reports sensor readings
 - FreeRTOS tasks operate correctly
 - Serial output remains clean with mutex protection
-- Extended stability testing completed
 
 ## Example UART Output
 
